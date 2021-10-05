@@ -1,6 +1,9 @@
 h1 {
     color: purple;
 }
+html {
+    background-color: greenyellow;
+}
 
 img {
     max-height: 200px;
